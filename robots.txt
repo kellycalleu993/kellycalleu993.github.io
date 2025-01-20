@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /login
+Sitemap:kellycalleu993.github.ioBIJ/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioYDM/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioTBO/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioLNE/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioCDT/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioBLS/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioGWR/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioXVR/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioLBQ/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioXRN/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioSMD/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioQJI/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioMHN/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioECL/sitemap_index.txt
+Sitemap:kellycalleu993.github.ioPLC/sitemap_index.txt
